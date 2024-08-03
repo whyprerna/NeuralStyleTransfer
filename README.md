@@ -34,11 +34,39 @@ Here are some screenshots of the website:
 #### Home Page
 ![Home Page](Screenshots/Screenshot.home.png)
 
-#### Create Your Own Artistic Image
-![Create Your Own Artistic Image](screenshots/create_artistic_image.png)
+#### Description Page
+![Description Page](Screenshots/Screenshot.description.png)
 
-#### Output Images
-![Output Images](screenshots/output_images.png)
+#### Create Your Own Artistic Image
+![Create Your Own Artistic Image](Screenshots/Screenshot.insertimage.png)
+
+## Examples 
+
+### Example 1
+#### Input Images:
+##### Content Image: 
+![Content Image 1](Screenshots/content-image1.png)
+##### Style Image:
+![Style Image 1](Screenshots/content-image1.png)
+#### Output Image
+##### Output from VGG19 Model
+![Output Images1](Screenshots/outputimage1.1.png)
+##### Output from AlexNet Model
+![Output Images1](Screenshots/outputimage1.2.png)
+
+
+### Example 2
+#### Input Images:
+##### Content Image: 
+![Content Image 2](Screenshots/content-image2.png)
+##### Style Image:
+![Style Image 2](Screenshots/content-image2.png)
+#### Output Image
+##### Output from VGG19 Model
+![Output Images2](Screenshots/outputimage2.1.png)
+##### Output from AlexNet Model
+![Output Images2](Screenshots/outputimage2.2.png)
+
 
 ### Limitations
 
