@@ -32,7 +32,7 @@ Here is a screen recording of the website in action:
 Here are some screenshots of the website:
 
 #### Home Page
-![Home Page](Screenshot.home.png)
+![Home Page](Screenshots/Screenshot.home.png)
 
 #### Create Your Own Artistic Image
 ![Create Your Own Artistic Image](screenshots/create_artistic_image.png)
