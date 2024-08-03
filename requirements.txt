@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+Pillow
+matplotlib
+seaborn
+keras
+pillow
+tensorflow
+tensorflow_hub
