@@ -63,12 +63,12 @@ Here are some screenshots of the website:
 ![Output Images2](Screenshots/outputimage2.2.png)
 
 
-### Limitations
+### Limitations:)
 
 - **Image Size Requirement**: Both content and style images must have the same dimensions for the style transfer to work properly. If the images have different sizes, you may need to resize them before uploading.
 - **ResNet50 Model Issue**: The ResNet50 model may sometimes encounter issues due to normalization and matrix multiplication. If you experience problems with this model, you might want to try using VGG19 or AlexNet instead.
 
-### About Us
+### About Me:)
 
 **Contact Information:**
 
@@ -77,19 +77,6 @@ Here are some screenshots of the website:
 - **GitHub**: [github.com/whyprerna](https://github.com/whyprerna)
 - **LinkedIn**: [linkedin.com/in/pattanaikprerna](https://www.linkedin.com/in/pattanaikprerna/)
 
----
 
-### Project Description (Resume)
 
-**Artistic Image Fusion with Deep Learning**
-
-- Led the development of an interactive Streamlit website for Neural Style Transfer, integrating three deep learning models (VGG19, AlexNet, ResNet50). Demonstrated proficiency in leveraging these models to transform images into visually compelling artworks, showcasing a nuanced understanding of content and artistic style.
-
----
-
-### Additional Information
-
-- This project is implemented using PyTorch for deep learning models.
-- The interactive website is built using Streamlit.
-
-Feel free to explore the repository and try out the website!
+Feel free to explore the repository and generate your own artistic image, hehe^_^!
